@@ -7,7 +7,7 @@ fun main() {
     print("Masukan Bilangan Pertama : ")
     val bilangan1: Int = input.nextInt()
     print("Masukan Bilangan Kedua   : ")
-    val bilangan2 = input.nextInt()
+    val bilangan2: Int = input.nextInt()
 
     val jumlah = Penjumlahan(bilangan1, bilangan2)
 
